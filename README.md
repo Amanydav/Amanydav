@@ -14,7 +14,7 @@ I'm Aman Kumar, a passionate web developer with expertise in React, MongoDB, HTM
 Here are a few projects I've been working on:
 
 1. Mern stack Travelling Website(): Brief description of the project.
-2. Travelling Website using html,css and javascript:(): Brief description of the project.
+2. Travelling Website using html,css and javascript:(https://github.com/Amanydav/Travelling-Website): Brief description of the project.
 3. Portfolio using html,css and javascript:( ) Brief description of the project.
 
 ## 📫 Contact Me
