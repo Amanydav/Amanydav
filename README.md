@@ -14,13 +14,21 @@ I'm Aman Kumar, a passionate web developer with expertise in React, MongoDB, HTM
 Here are a few projects I've been working on:
 
 1. Mern stack Travelling Website(): Brief description of the project.
-2. Travelling Website using html,css and javascript:(https://github.com/Amanydav/Travelling-Website): Brief description of the project.
-3. Portfolio using html,css and javascript:( ) Brief description of the project.
+   # Live Demo  -- https://travelling-website-mern.netlify.app/
+  
+2. Portfolio using html,css and javascript:( ) Brief description of the project.
+  # Live Demo  --   https://portfolio-aman7.netlify.app/
+
+3. College Website Using Html,Css,Javascript: Brief description of the project
+  # Live demo  --- https://college-website-7.netlify.app/
+
+4. E-commerce Website using Html,Css,Javascript: Brief description of the project
+  # Live Demo -- https://shopsy-ecommercee.netlify.app/
 
 ## 📫 Contact Me
 
 - LinkedIn: [https://www.linkedin.com/in/aman-kumar-000a36269/](link-to-linkedin)
-- Email: ak751924051@gmail.com@email.com
+- Email: ak751924051@gmail.com
 
 ## 🌱 Looking to Learn
 
