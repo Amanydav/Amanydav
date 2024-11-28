@@ -25,6 +25,9 @@ Here are a few projects I've been working on:
 4. E-commerce Website using Html,Css,Javascript: Brief description of the project
   # Live Demo -- https://shopsy-ecommercee.netlify.app/
 
+5. Kfc Website using Html,Css and Js(): Brief desciption of the project
+   # Live Demo -- https://kfc-7.netlify.app/  
+
 ## 📫 Contact Me
 
 - LinkedIn: [https://www.linkedin.com/in/aman-kumar-000a36269/](link-to-linkedin)
